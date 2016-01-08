@@ -1,1 +1,1 @@
-# arduino
+Ir thermometer on mlx90614 and arduino uno and TFT LCD and Real Time Clock with some hack
